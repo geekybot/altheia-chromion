@@ -40,11 +40,9 @@
 - Standardizes a “truth layer” for tokenized real estate, credit, commodities, etc.
 - Helps DeFi protocols build **composable risk-aware lending markets**
 
+## 📋 **Repository Access:**
+- React App repo: https://github.com/geekybot/altheia-react (Private)
+- Contracts Repo: https://github.com/geekybot/altheia-contracts (Private)
+- Back End Repo: https://github.com/altheia-xyz/altheia-backend (Private)
 
-## 👨🏻‍💻 Where are we at? (Progress)
-- Basic Smart contracts are developed and tested
-- Working on chainlink integration
-- Visualized how the UI/UX is gonna look, developed few sample pages with dummy data
-
-  
-👨🏻‍💻 built by @geekybot with 💙 for chromion
+👥 An invitation to each of these repositories has been sent to Harry (harry@chainlinklabs.co)
